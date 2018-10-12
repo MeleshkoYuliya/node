@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.App-logo{
+	height: 40px;
+}
+.App-name {
+	text-decoration: none;
+	color: #61DAFB;
+}
+.App-header {
+  background-color: #111;
+  height: 90px;
+  padding: 20px;
+  color: white;
+}
+/* .App-header {
+  background-color: #111;
+  height: 60px;
+  padding: 20px;
+  color: white;
+} */
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+h3 {
+  color: #FFF;
+}
